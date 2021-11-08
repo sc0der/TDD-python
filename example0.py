@@ -7,8 +7,6 @@ def sum_3_elem(a, b, c):
 def multiply_3_elem(a, b, c):
     return a*b*c
 
-
-
 def test_concat():
     assert concat(1, 2) == '1 2'
     assert concat(10, 20) == '10 20'
