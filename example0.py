@@ -19,8 +19,6 @@ def test_multiply_3_elem():
     assert multiply_3_elem(1, 2, 3) == 6
     assert multiply_3_elem(0, 3, 20) == 0
 
-
-
 test_funcs = [
     test_concat,
     test_sum_3_elem,
