@@ -25,7 +25,6 @@ test_funcs = [
     test_multiply_3_elem
 ]
 
-
 if __name__ == "__main__":
     for func in test_funcs:
         try:
